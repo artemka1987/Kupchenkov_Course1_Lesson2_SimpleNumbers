@@ -1,5 +1,6 @@
+package Kupchenkov_Course1_Lesson2_SimpleNumbers;
+
 import java.util.Arrays;
-import java.util.Collections;
 
 /**
  * Created by Artemka on 04.09.2017.
